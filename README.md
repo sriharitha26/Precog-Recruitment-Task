@@ -8,5 +8,31 @@ This task focuses on quantitative and qualitative analysis of hateful memes thro
 The project involves four main tasks which were performed in Google Colab.
 
 # Project Structure
-1. Object Detection
-2. 
+**SubTask - 1. Object Detection**
+The datasets used for this task and all the executable codes with outputs are given in this [link](./Object Detection)
+
+**SubTask - 2. Caption Impact Assessment**
+The datasets and all the executable codes related to this task are given in this [link](./Caption Impact Assessment)
+
+**SubTask -3. Classification System Development**
+This task was approached with a view of segregating/classifying the dataset given into meme or not. All the required dataset and codes are available [here](./Classification System Development)
+
+**BonusTask - Toxicity Prediction**
+Predciting whether a meme is toxic or not. The following [link](./BonusTask) gives access to view all the dataset and codes used to tackle this approach.
+
+# Paper Reading Task
+The paper reading report for the research paper titled **MEMEX: Detecting Explanatory Evidence for Memes via Knowledge-Enriched Contextualization** is given [here](./Paper Reading Task)
+
+# Required Libraries
+```bash
+Python 3.10 or above
+CV2 (OpenCV)
+Matplotlib
+PIL (Python Imaging Library)
+Torch
+Torchvision
+Os
+Transformers
+NumPy
+Tesseract OCR
+```
