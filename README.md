@@ -9,13 +9,13 @@ The project involves four main tasks which were performed in Google Colab.
 
 ## Project Structure
 **SubTask - 1. Object Detection**
-The datasets used for this task and all the executable codes with outputs are given in this [link](./ObjectDetection)
+The datasets used for this task and all the executable codes with outputs are given in this [link](./ObjectDetectionTask) .
 
 **SubTask - 2. Caption Impact Assessment**
-The datasets and all the executable codes related to this task are given in this [link](./CaptionImpactAssessment)
+The datasets and all the executable codes related to this task are given in this [link](./CaptionImpactAssessment) .
 
 **SubTask -3. Classification System Development**
-This task was approached with a view of segregating/classifying the dataset given into meme or not. All the required dataset and codes are available [here](./ClassificationSystemDevelopment)
+This task was approached with a view of segregating/classifying the dataset given into meme or not. All the required dataset and codes are available [here](./ClassificationSystemDevelopment) .
 
 **BonusTask - Toxicity Prediction**
 Predciting whether a meme is toxic or not. The following [link](./BonusTask) gives access to view all the dataset and codes used to tackle this approach.
