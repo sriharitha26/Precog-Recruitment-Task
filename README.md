@@ -21,7 +21,7 @@ This task was approached with a view of segregating/classifying the dataset give
 Predciting whether a meme is toxic or not. The following [link](./BonusTask) gives access to view all the dataset and codes used to tackle this approach.
 
 ## Paper Reading Task
-The paper reading report for the research paper titled **MEMEX: Detecting Explanatory Evidence for Memes via Knowledge-Enriched Contextualization** is given [here](./PaperReadingTask)
+The paper reading report for the research paper titled **MEMEX: Detecting Explanatory Evidence for Memes via Knowledge-Enriched Contextualization** is given [here](./PaperReadingTask) .
 
 ## Required Libraries
 ```bash
